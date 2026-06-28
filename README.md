@@ -20,7 +20,7 @@ My goal is to build secure, scalable, and cost-effective cloud solutions while c
 | IAM Security Framework | ✅ Completed |
 | Cloud Monitoring & Automation | ✅ Completed |
 | AWS Static Website Hosting | ✅ Completed |
-| AWS Budget & Cost Monitoring | 🚧 In Progress |
+| AWS Budget & Cost Monitoring | ✅ Complted |
 
 ---
 
